@@ -10,10 +10,9 @@ I'm currently looking for a job in software engineering.
 <div style="text-align:center">
     <img align="center" src="assests/crane_building_computer_2.png" />
 </div> -->
+---
 
 <br>
-
----
 
 ## 🛠 Skills
 <span>
