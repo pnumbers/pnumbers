@@ -16,9 +16,7 @@ I'm currently looking for a job in software engineering.
 
 ![Crane building computer](/assests/crane_building_computer.png) -->
 
-<!--
-**pnumbers/pnumbers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<br>
 
 🔭 I’m currently working on:
 - A python GUI tool for parsing and displaying RAM Structural Systems drift output for quick iteration of a building's lateral design
