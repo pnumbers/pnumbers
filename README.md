@@ -22,9 +22,9 @@ I'm currently looking for a job in software engineering.
     <img height="25" src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor"/>
 </span>
 
-<br>
-
 ---
+
+<br>
 
 ### 🔭 I’m currently working on:
 - A python GUI tool for parsing and displaying RAM Structural Systems drift output for quick iteration of a building's lateral design
