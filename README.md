@@ -9,7 +9,7 @@ I'm currently looking for a job in software engineering.
 ---
 
 <div style="text-align:center">
-    <img src="assests/crane_building_computer_2.png" />
+    <img align="center" src="assests/crane_building_computer_2.png" />
 </div>
 
 <!-- 
