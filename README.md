@@ -13,13 +13,10 @@ I'm currently looking for a job in software engineering.
 
 <br>
 
-## 🛠 Skills
 ---
 
-<!-- <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="75"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> -->
+## 🛠 Skills
+
 <img height="25" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow"/>
 <img height="25" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 <img height="25" src="https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb&logoColor"/>
