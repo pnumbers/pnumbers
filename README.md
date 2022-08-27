@@ -6,6 +6,7 @@ I'm currently looking for a job in software engineering.
 
 📫 Reach me at: pnumbers210@gmail.com
 
+---
 
 <div style="text-align:center">
     <img src="assests/crane_building_computer_2.png" />
