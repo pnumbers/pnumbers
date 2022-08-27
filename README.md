@@ -16,11 +16,12 @@ I'm currently looking for a job in software engineering.
 ---
 
 ## 🛠 Skills
-
-<img height="25" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow"/>
-<img height="25" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-<img height="25" src="https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb&logoColor"/>
-<img height="25" src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor"/>
+<span>
+    <img height="25" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow"/>
+    <img height="25" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+    <img height="25" src="https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb&logoColor"/>
+    <img height="25" src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor"/>
+</span>
 
 <br>
 
