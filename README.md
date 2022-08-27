@@ -28,7 +28,7 @@ I'm currently looking for a job in software engineering.
 - React
 
 ⚡ Fun fact:
-    - I've bicycled across the entire United States
+- I've bicycled across the entire United States
 <!-- - 😄 Pronouns: ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
