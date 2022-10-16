@@ -32,13 +32,13 @@ Check it out here:  [github.com/pnumbers/ram-drift-parser](https://github.com/pn
 
 - A python tool for parsing RAM Structural Systems concrete column output to import into Revit
 
-<br>
+<!-- <br> -->
 
 ## 🌱 I’m currently learning: 
 - C/C++
 - React
 
-<br>
+<!-- <br> -->
 
 ## ⚡ Fun fact:
 - I've bicycled across the entire United States while building houses with Habitat for Humanity
