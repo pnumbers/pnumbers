@@ -27,7 +27,7 @@ I'm a self taught software engineer with a background in structural engineering.
 
 ## 🔭 I’m currently working on:
 - A python GUI tool for parsing and displaying RAM Structural Systems drift output for quick iteration of a building's lateral design. 
-<br>
+<!-- <br> -->
 Check it out here:  [github.com/pnumbers/ram-drift-parser](https://github.com/pnumbers/ram-drift-parser)
 
 - A python tool for parsing RAM Structural Systems concrete column output to import into Revit
