@@ -27,7 +27,9 @@ I'm currently looking for a job in software engineering.
 <br>
 
 ### 🔭 I’m currently working on:
-- A python GUI tool for parsing and displaying RAM Structural Systems drift output for quick iteration of a building's lateral design
+- A python GUI tool for parsing and displaying RAM Structural Systems drift output for quick iteration of a building's lateral design. 
+https://github.com/pnumbers/ram-drift-parser
+
 - A python tool for parsing RAM Structural Systems concrete column output to import into Revit
 
 ### 🌱 I’m currently learning: 
@@ -35,7 +37,7 @@ I'm currently looking for a job in software engineering.
 - React
 
 ### ⚡ Fun fact:
-- I've bicycled across the entire United States
+- I've bicycled across the entire United States while building houses with Habitat for Humanity
 <!-- - 😄 Pronouns: ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
