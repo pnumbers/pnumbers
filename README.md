@@ -17,10 +17,29 @@ I'm a self taught software engineer with a background in structural engineering.
 
 ## 🛠 Skills
 <span>
+    <!-- Python -->
     <img height="25" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow"/>
+    <!-- JS -->
     <img height="25" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+    <!-- MongoDB -->
     <img height="25" src="https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb&logoColor"/>
+    <!-- Express -->
     <img height="25" src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor"/>
+    <!-- Node.JS - Square-->
+    <!-- <img height="25" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> -->
+    <!-- Node.js - Rounded -->
+    <img height="25" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
+    <!-- HTML5 - SVG -->
+    <!-- <img height="25" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> -->
+    <!-- HTML - Flat -->
+    <img height="25" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
+    <!-- HTML Mine -->
+    <!-- <img height="25" src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white"/> -->
+    <!-- CSS3 -->
+    <img height="25" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
+    <!-- CSS3 -->
+    <!-- <img height="25" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> -->
+
 </span>
 
 <br>
