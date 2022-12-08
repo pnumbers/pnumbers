@@ -21,6 +21,10 @@ I'm a self taught software engineer with a background in structural engineering.
     <img height="25" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow"/>
     <!-- JS -->
     <img height="25" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+    <!-- MySQL -->
+    <img height="25" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <!-- <img height="25" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> -->
+    <!-- <img height="25" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"/> -->
     <!-- MongoDB -->
     <img height="25" src="https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb&logoColor"/>
     <!-- Express -->
@@ -43,7 +47,6 @@ I'm a self taught software engineer with a background in structural engineering.
     <!-- <img height="25" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> -->
     <!-- C -->
     <img height="25" src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white"/>
-
 </span>
 
 <br>
@@ -73,7 +76,6 @@ I'm a self taught software engineer with a background in structural engineering.
 ## ⚡ Fun fact:
 
 - I've bicycled across the entire United States while building houses with Habitat for Humanity
-  <!-- - 😄 Pronouns: ... -->
   <!-- - 💬 Ask me about ... -->
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
