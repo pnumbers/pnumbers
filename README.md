@@ -58,7 +58,7 @@ I'm a self taught software engineer with a background in structural engineering.
 
   Check it out here: [github.com/pnumbers/ram-drift-parser](https://github.com/pnumbers/ram-drift-parser)
 
-- A website for structural engineering realted design tools.
+- A website for structural engineering related design tools.
 
   Check it out here: [structural-web-tools.herokuapp.com](https://structural-web-tools.herokuapp.com/)
 
