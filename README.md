@@ -68,6 +68,7 @@ I'm a self taught software engineer with a background in structural engineering.
 
 ## 🌱 I’m currently learning:
 
+- Go
 - C/C++
 - React
 
