@@ -17,6 +17,8 @@ I'm a self taught software engineer with a background in structural engineering.
 ## 🛠 Skills
 
 <span>
+    <!-- Go -->
+    <img height="25" src="https://img.shields.io/badge/-Golang-%2316667e?style=flat&logo=go&logoColor=00ADD8">
     <!-- Python -->
     <img height="25" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow"/>
     <!-- JS -->
